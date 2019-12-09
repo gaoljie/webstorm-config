@@ -1,0 +1,9 @@
+<keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="ShowSearchHistory" />
+</keymap>
